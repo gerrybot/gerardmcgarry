@@ -1,0 +1,13 @@
+---
+title: 'Should I SEO my website?'
+date: Thu, 27 Nov 2008 19:38:48 +0000
+draft: false
+tags: [Drupal, SEO, Technology, Web Design]
+---
+
+About two years ago, I decided that I wasn't going to SEO this site. Admittedly, I've [deviated from this strategy](http://gerardmcgarry.com/blog/planning-a-personal-blog-design) subtly in the intervening time. For a start, I ditched the Garland theme in preference of my own design, which uses XHTML, is easily crawlable and very semantically correct. I noticed the other day that somewhere along the line, I installed the [nodewords module](http://drupal.org/project/nodewords) for Drupal - possibly in testing for another site - but I'm not complaining about the individualised meta tags it creates. There are two other things I would do to optimise this Drupal installation - installing the [XML Sitemaps](http://drupal.org/project/xmlsitemap) module for one thing - to give search engines an exhaustive menu of what's available on this site. The other module that I'm inclined to install is [Pathauto](http://drupal.org/project/pathauto). Pathauto customises the URL of every page on the site. It's infinitely flexible in configuration, but most people (myself included) will be inclined to have the page title repeated in the URL. Don't get me wrong, plenty of Drupal sites use the standard node/number URL structure, but try working out from your stats tracker what page node/263 refers to - it's impossible to do without visiting the page.
+
+So, why is now the right time for SEO?
+--------------------------------------
+
+One reason: I'm [working for myself](http://gerardmcgarry.com/blog/going-solo) now. Back when I was working for various companies, I didn't want my personal blog to be too visible. Hell, you need _some_ privacy from your co-workers. I spoke before about being slightly inhibited about writing in this blog as an individual. That's really not the case anymore. I _know_ some people from my last job have logged on here, and that doesn't bother me anymore. Not that I intend to suddenly start posting more risque material here or anything, but I feel I can open up a bit more now. So, in light of this new, more liberated blogging ethos, I've decided to become more search engine visible now. I've also just upgraded the hosting to PHP5 and MySQL 5, which opens up a lot of options, particularly for image management. I've always wanted to do a decent kind of photoblog, and with the right tools in Drupal, I might just be able to achieve that. So, look out for a few minor changes to the site: longer URLs, integrated photoblog, and maybe even a sitemap and robots.txt changes. I might even get reckless and document it all for you!

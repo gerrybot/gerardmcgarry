@@ -1,0 +1,8 @@
+---
+title: 'Drupal Question: How to theme a block created with views?'
+date: Fri, 28 Jan 2011 00:28:39 +0000
+draft: false
+tags: [Drupal, PHP, Web Design]
+---
+
+[![Drupal Logo](http://gerard.interwebworld.co.uk/files/2011/01/drupal-logo.jpg)](http://gerard.interwebworld.co.uk/files/2011/01/drupal-logo.jpg)Tonight sees me writing a **very frustrated** Drupal post, but I've googled until my eyes went googly and I can't see a solution. So I turn to you, lovely people of Drupal Planet. I need your expertise and advice. And possibly a sample .tpl.php file... Here's my problem - I'm using views to create a block for the sidebar of my site. What I want to do is display a list of latest content showing the title of the post and an ImageField thumbnail. Examples of what I'm trying to achieve are on [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1351162/Katy-Perry-starts-strict-diet-exercise-regime-ahead-world-tour.html) and Holy Moly - both on their right-hand sidebars. Where I'm struggling is that I want granular control over the display output. I want to build the <img> tag manually, pulling the node title in as the ALT and TITLE tag for each listing. I'm using an unformatted view type and the fields display. I can't select the whole image field because that's a pre-configured HTML string. And the 'meta' version is seemingly useless. I've also played around with block-specific template files, but nothing has worked. So, over to you Drupal geniuses! Hit me with your best solution, because I'm fresh out of ideas!

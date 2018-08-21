@@ -1,0 +1,8 @@
+---
+title: 'The RIGHT way to record extension numbers in iPhone contacts'
+date: Tue, 18 Aug 2015 10:38:31 +0000
+draft: false
+tags: [Apple, How-To, Tutorials]
+---
+
+[![Apple Logo](http://interwebworld.co.uk/wp-content/uploads/2014/01/apple-logo-300x224.jpg)](http://gerard.files.wordpress.com/2014/01/apple-logo.jpg)Do you use your iPhone to make business calls? Sooner or later, you're going to need to store a telephone number that includes an extension number for your contact. Rather than fumble around adding spaces and even brackets around the extension (which we tried initially!), we thought we'd show you the correct way to add extension numbers to your iOS contacts. The key to adding special numbers is the little button in the bottom left hand corner of the number pad. The one labelled (**+*#**). We've entered a sample telephone number in the image below. Read on to discover what the symbols mean: [![Adding an extension to iPhone contacts](http://interwebworld.co.uk/wp-content/uploads/2015/08/IMG_1600-576x1024.png)](http://gerard.files.wordpress.com/2015/08/img_1600.png) So what does it all mean? **Pause (,)** \- If you add a comma after the main telephone number, the iPhone will wait 2 seconds before continuing the dial. You can enter more than one if you need the phone to wait longer. **Wait (;)** \- If you insert a semicolon after the main number, the iPhone will wait until the “Dial” button is pressed again before continuing to dial the digits stored with the number. **Hash (#)** \- The hash denotes the extension number. Simple!

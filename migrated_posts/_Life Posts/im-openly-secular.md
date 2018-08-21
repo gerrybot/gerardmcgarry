@@ -1,0 +1,33 @@
+---
+title: 'Why I''m Openly Secular'
+date: Thu, 23 Apr 2015 10:22:56 +0000
+draft: false
+tags: [Atheism, Life, Religion]
+---
+
+[![Openly Secular logo](http://gerard.interwebworld.co.uk/files/2015/04/Openly-Secular-logo-300x300.jpg "Openly Secular logo")](http://gerard.interwebworld.co.uk/files/2015/04/Openly-Secular-logo.jpg) Atheists. We get a bad rap. People assume we're angry all the time. That we're immoral. That we...um...worship Satan*. And we crash kids birthday parties and burst all the balloons. Just because we can. The reality is, atheists are regular people. We go to work. We raise families. We listen to music. We participate in society. We just don't believe in gods.
+
+Why I became an atheist
+-----------------------
+
+I don't remember the exact day that God stopped existing for me. What I do know is that I was raised as Catholic in the height of Northern Ireland's 'troubles'. Growing up in the Glens Of Antrim, we didn't just have religion. We had some world-class folklore and superstition too. Giants and leprechauns and banshees and Jesus. And I loved it all. But growing up in a politically charged climate, there were almost-nightly news reports about Catholics or Protestants being murdered. A death on one 'side' would inevitably precipitate a tit-for-tat killing on the other side. I often wondered why two Christian sects were tearing each other apart. On one side, Republicans were fighting to be reunited with 'Holy Ireland'. On the other, the Reverend Ian Paisley - who would have been labelled a hate preacher by today's standards - spewed fire and brimstone over the Catholic population and anyone who attempted to give them civil rights. An introspective child, I asked why God couldn't put a stop to all this killing? A word. A gesture. Surely in his omnipotence, God could reiterate his will and end this bloodshed? And then there was Paisley. If he was correct in his rhetoric, then Catholics were damned anyway. But if he was wrong, wasn't he marching his own flock to damnation instead? Once again, why wasn't God able to intervene? _Didn't he care_? Prayers were met with indifferent silence. When I looked around at the plethora of ways scripture was being interpreted, I was afraid. Afraid that the version of Christianity I was raised in was the wrong one. After all, only the truly saved would see Heaven. So what if I was following a false ideology? How would I know? Yet again, God declined to answer. I can only describe my feelings as my belief slipped away as terrifying. I was 15 or 16 years old. Afraid to acknowledge that God had fallen from the sky and no amount of logical trickery would put him back there. I sometimes forget the isolation I felt back then, unable to talk to my parents about what was going on inside my head. It was crushing. Despite that initial paralysis, I eventually came to feel liberated from religion. There are a vast number of diverse Christian sects around the world, not to mention Islam, Buddhism and fledgling religions like Mormonism and Scientology. Not to mention the past deities of Rome, Greece, Egypt and Scandinavia. If I'd been born in a different time and place, I would have grown up to worship a different set of deities. That's a powerful thought.
+
+Why I'm Openly Secular _Today_
+------------------------------
+
+1.  **To let people know we don't all think alike**: Unlike other minority groups, atheists blend in pretty well. Where I live, it would be easy to be assumed to be a Christian. I think it's important that people know I don't hold those beliefs, because otherwise it allows people to presume we all think the same way.
+2.  **To encourage people to discuss belief**: When people in religious circles discuss their faith, they very rarely discuss its contradictions and flaws. The inconsistencies between gospels, the fact that the Bible is interpreted in radically different ways, and the fact that the Bible is considered the perfect word of God despite its errors and passages that modern Christians choose not to follow. It's important that we discuss these things.
+3.  **To encourage other atheists to speak out**: I know what it's like to be terrified to talk to family about changing beliefs. When your belief is evaporating, it's unhelpful to be told to throw more 'faith' at the problem. I hope that by being openly secular, anyone who's questioning or hiding their atheism will be encouraged to talk about it. **Note:** If you're in my circles and you want to discuss religion with a non-believer, I'm always happy to help. Drop me a line.
+4.  **To combat religious intolerance**: There's a rising tide of evangelical intolerance emanating from the USA, but gaining a foothold - of course - in Northern Ireland and the wider UK. These movements are working to oppress gay rights, reproductive rights and women's rights based on a fundamentalist reading of the Bible. As an atheist, I believe that all people deserve to be treated fairly and with dignity. As a society, we should not be using a bronze age text to inform our legal system. If we do, it's only a matter of time before someone suggests legalising slavery again.
+5.  **I want change in Northern Ireland**: That sounds like a lofty goal, doesn't it? For decades, Northern Irish politics has been about Catholic v Protestant, Nationalist v Unionist. Our demographics have become ever more diverse, yet the political establishment has barely changed. I believe the more people reject traditional labels, the more we can change the conversation away from pandering to the Protestant/Catholic divide and start building a province we can be proud of.
+
+\* Seriously. That's a thing. People believe atheists are in league with the devil. If we don't believe in God, we certainly don't believe in his evil arch-nemesis. Stop being daft.
+
+Openly Secular Day
+------------------
+
+Today (April 23rd) is **Openly Secular Day**. The brainchild of [Todd Stiefel](https://twitter.com/ToddStiefel), the day (and the movement) encourages atheists, skeptics, freethinkers and humanists to be open about their _lack_ of belief. According to the [Openly Secular website](http://www.openlysecularday.org/):
+
+> Openly Secular Day is a celebration of secular people opening up about their secular worldview, and an opportunity for theistic allies to show their support for secular friends and family. This is a day to help others understand our values and how we think.
+
+The Openly Secular movement gives atheists a chance to discuss their nonbelief with friends and family. It's important to have these conversations, because people generally assume that you're a member of whatever the dominant religion in your area is. That's not always true.

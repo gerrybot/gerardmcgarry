@@ -1,0 +1,8 @@
+---
+title: 'Skull (Death''s Head) Pumpkin'
+date: Sun, 30 Oct 2011 22:01:47 +0000
+draft: false
+tags: [Halloween, Image, Photos, Pumpkins]
+---
+
+[![Skull Pumpkin lit up](http://gerard.interwebworld.co.uk/files/2011/10/skull-pumpkin.jpg)](http://gerard.interwebworld.co.uk/files/2011/10/skull-pumpkin.jpg) It's pumpkin-carving time again! I've discovered that Halloween is the peak of my creative output each year - from hacking up pumpkins to painting faces ([mostly my own](http://gerardmcgarry.com/photo/halloween-makeup), I admit). Whenever Halloween rolls around, I'm often thrown back to my teenage obsession with Alice Cooper and the theatrical horror and wicked makeup that he wore on stage. That's why I always gravitate toward blood or strange markings around the eyes. Back in the late 80s, when Cooper released his comeback album, Trash, he wore a death's head t-shirt that had a half-face/half-skull design and Alice's iconic makeup on it. I wanted to create something like that, with a half-half effect. One half is all skull, hewn from the pumpkin, while the other half has a mask-like quality. The photo above is a composite, showing the lit-up pumpkin from three different angles to give you an idea of the entire work. Needless to say, I'm incredibly pleased with this one. Here's another shot of the skull pumpkin in daylight to give you an idea of how it's put together: [![Skull pumpkin outdoors on Instagram](http://gerard.interwebworld.co.uk/files/2011/10/skull-outside.jpg)](http://gerard.interwebworld.co.uk/files/2011/10/skull-outside.jpg)

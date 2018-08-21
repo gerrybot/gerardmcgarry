@@ -1,0 +1,13 @@
+---
+title: 'Fix It Again Tomorrow? No Chance.'
+date: Thu, 11 Sep 2008 10:24:17 +0000
+draft: false
+tags: [Cars, Life]
+---
+
+[![Smoking Car](http://gerard.interwebworld.co.uk/files/2008/09/smoking-car.jpg)](http://gerard.interwebworld.co.uk/files/2008/09/smoking-car.jpg)Let it be known that yesterday - 10th September 2008 - officially ended my relationship with FIAT. Somewhere on the Antrim Road, on the way home from work, the car stalled. Given that the car stereo was drowning out the engine, it must have been sixth sense that told me something was wrong. Turning the radio off confirmed that the engine was no longer running, so I tried to turn the key a couple of times to get it started. As the clock had struck rush hour, I was aware that my stationary car was in the way of other drones heading home. I approached the taxi driver in the car behind me for help pushing the car into a nearby side street. "Sorry mate, not being funny, but I've got a condition. Can't help. Maybe those traffic wardens over there can give you a hand?" and he pointed out the red-uniformed gentlemen walking up the road.  So, I went over an approached them for assistance. Three big guys, it wouldn't have taken more than a minute for them to help me shift the car out of the way. Guess what? "I'm not going out in that traffic, mate. I might get run down." said the tallest of the three. "Sorry, but if we went out there we'd be compromising ourselves." one of the others chimed in. The internal dialogue in my head was colourful at that point, I can tell you. None of it is printable here. Who manages those guys? NCP? Hmmm. Without any kind volunteers jumping out to help, I put my shoulder to the frame of the car and gave it a shove while the traffic-shy traffic wardens looked on. And then a relaxing wait for the RAC van to arrive, during which I sampled the delights of the local Chinese takeaway. The RAC guy was the hero of the hour. Although he wasn't _technically_ supposed to tow the car more than 10 or so miles, he turned a blind eye to the distance to my house and took the car to my front door. He even gave me a hand pushing it into the driveway, although I wanted to push it off a cliff...
+
+And the problem?
+----------------
+
+Apparently being a FIAT was the biggest problem. I only heard recently that FIAT stands for Fix It Again Tomorrow. The problem last night was the timing belt decided to break. Add that to replacing the alternator and the head gasket during two separate incidents during the summer. The next place I'll park that car is in a scrapyard. Is it ironic that the car broke down the day before the seventh anniversary of passing my driving test?

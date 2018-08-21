@@ -1,0 +1,15 @@
+---
+title: 'Consolidating Blogs & Domains'
+date: Sun, 05 Oct 2008 23:20:43 +0000
+draft: false
+tags: [Blogging, SEO, Technology, Web Design]
+---
+
+I’m doing a little blog consolidation work at the moment. Maybe I mentioned in the last post that when I started blogging, I went to town registering domains and starting random blogs. That’s a rookie mistake that I don’t intend to make again. For a start, maintaining all those separate WordPress installs at once, is a lot of work. Even with a dormant WP site, I still feel compelled to apply security updates in case there’s a chance the site gets hacked. Plus, I can’t stand owning so many ghost town blogs. So, I’m working on a masterplan to consolidate all those blogs and domains into a manageable block of 3-4. For example, I’ve migrated all the posts from an old tech blog of mine to this one, and then finally redirected the domain so that all the traffic comes to this site. Thinking about how I improve manageability of these sites, I’m considering setting up a Drupal multisite configuration to host this blog and three other ‘community’ sites I’m working on. The beauty of the Drupal multisite configuration is that the sites share the same core installation files – so an upgrade to one is an upgrade to all. The same applies to updating installed modules, so imagine the maintenance benefits there. Step by step, here’s how it works -
+
+1.  Configure the replacement blog on the multisite area, and import content where possible. I came across a great [WordPress import script](http://drupal.org/project/wordpress_import) for Drupal that helps with this. It only works in a 5.x environment, but I set up a Drupal 5 site on Xampp and upgraded it to 6.x, then used the Backup/Migrate module to move the content onto the live server.
+2.  Take a final backup of the old WordPress site. Just in case.
+3.  Configure [301 directs](http://www.webconfs.com/how-to-redirect-a-webpage.php) on the source domain to the new domain – the 301 redirect is important because it passes along any of the PageRank values that the old site had gained. No point in wasting all that hard work, eh?
+4.  If subscribers are at all important, install the Drupal [FeedBurner module](http://drupal.org/project/feedburner), and configure it according to the instructions. You’ll need to change the original feed path in FeedBurner as well if you’re moving from WordPress to Drupal.
+
+This is **not** a dig at WordPress, by the way. I did investigate the WordPress MU option, but found it didn’t do what I wanted it to. We’ll continue to use WordPress for the Unreality TV blogs – it’s the best tool for the job, but it doesn’t have much to offer in the way of community features, which Drupal does a nice job of. Blog overload is a major issue, which is why I want to pare down the number of blogs I have. As I move into web mastering full-time, I’ll want to concentrate more on developing community sites where people can get together and share interests and ideas. That’s why shedding the dead weight is important, and focussing on a small, sustainable core of blogs is essential.

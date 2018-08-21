@@ -1,0 +1,8 @@
+---
+title: 'Ballyverdaugh National School'
+date: Mon, 07 Nov 2011 23:52:48 +0000
+draft: false
+tags: [Buildings, Image, Northern Ireland, Photos, Ulster Folk and Transport Museum]
+---
+
+[![Ballyverdaugh National School at the Ulster Folk and Transport Museum, Cultra](http://gerard.interwebworld.co.uk/files/2011/11/cultra-schoolhouse.jpg)](http://gerard.interwebworld.co.uk/files/2011/11/cultra-schoolhouse.jpg) Originally built in 1836, Ballyverdaugh National School was originally situated near Ballycastle. It was dismantled and moved to the Ulster Folk and Transport Museum where it's been for...well, as long as I can remember! Having grown up in Ballycastle, one of my early memories of this building was a school trip to the museum in Primary 5, which would have been roughly 1985. Our teacher then was Gerard Gillan who told us that his father had once attended the school before it was 'rescued' by the UFTM. The process they go through is to number each brick in the building, then it's exhaustively photographed, dismantled and transported to the Ulster Folk and Transport Museum and reassembled. Apparently these National Schools were strictly segregated by gender. If memory serves, boys were taught downstairs, and girls upstairs. They even had seperate entrances - girls had their own staircase on the outside of the building. Playgrounds would also have been segregated. It's an old theme in rural Northern Ireland that we joke about walking five miles barefoot to school carrying turf for the fire. That's actually true - pupils were expected to bring fuel for the school fire, and they would have had to walk the distance to school carrying it!

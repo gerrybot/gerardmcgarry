@@ -1,0 +1,17 @@
+---
+title: 'Beachbody Insanity, Day 3: Cardio Power & Resistance'
+date: Wed, 18 Apr 2012 19:06:29 +0000
+draft: false
+tags: [Beachbody, Exercise, Fitness, Health, Insanity]
+---
+
+![Shaun T, creator of Insanity](http://gerard.files.wordpress.com/2012/04/shaun-t-insanity.jpg "Shaun T, creator of Insanity")Day 3 of the [**Insanity** workout](http://gerard.wordpress.com/2012/04/16/beachbody-insanity-day-1-the-fit-test/ "Beachbody Insanity, Day 1: The Fit Test"). The day when our neighbour stopped my wife in the street and asked her what those anguished cries coming from our house were. You know, the howling, the strained panting, and finally the crying at the end. I was hoping that Lisa would've told her that we were indulging our passion for S&M while the kids were at school, but instead she told our neighbour that she's now an "Insanity Widow". I predicted yesterday that I'd be [pretty sore after Day 2](http://gerard.wordpress.com/2012/04/17/beachbody-insanity-day-2-plyometric-cardio/ "Beachbody Insanity, Day 2: Plyometric Cardio"). Yeah. Stiff and sore. In my inner thighs, shoulders, chest and calves. Remarkably, not so much across the abs. Which makes me wonder if my form needs some attention. Now, today I felt pretty exhausted before I even started the **Cardio Power** session. So, even getting through the warm-up was a struggle. Just a note on the warm-up routine - like everything else in Insanity, you repeat the circuit three times, increasing your intensity each time. So, by the time you get to the end of the warm-up, you'll be feeling pretty depleted already. Don't give up though - because the stretching routine that follows allows ample time to recover before starting the workout proper. As for the workout itself - it's an extreme session. The Power Jumps are exhausting - you have to leap into the air from a squat position, and do a _mid-air crunch_, meeting your knees with your palms or elbows. There are other moves that are just as pressured. And then... **Push-ups**. My nemesis. My oldest enemy. There are a couple in this routine - a 'moving push-up' where you take a step to the side _during_ the push-up, and also a push-up from a V position designed to work the shoulders while holding the abs in a tight contraction. I don't mind telling you that while my legs are in good condition, my upper body is feeble and pasty and unable to manage more than a few push-ups. It's quite pathetic.
+
+3 Things I Need To Improve
+--------------------------
+
+1.  **Form**. Luckily, some of these routines get repeated, so there'll be second chances to improve form. Especially as you get increasingly tired, your form can slip.
+2.  **Speed**. I found that with some moves, I wasn't getting much faster. Don't know if that's because of fatigue or because I'm quite tall and have further to move(!) But I'd like to be able to move faster as the routine gets more intense.
+3.  **Less rests**. Yes, I'm a wimp. There may have been a few instances where I stopped the DVD during a water break so that I could recover more. I need to take less rests rather than allow myself so much extra time. Presumably to get the maximum from the workouts, you need to keep working constantly.
+
+So, that's Day 3 done. I've never sweated so much in my entire life! Day 4 is called Cardio Recovery. I'm hoping that'll be a slightly easier session. And so is my neighbour.

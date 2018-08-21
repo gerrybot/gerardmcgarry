@@ -1,0 +1,8 @@
+---
+title: 'Sands Beach Resort, Lanzarote'
+date: Thu, 14 Jul 2011 15:44:57 +0000
+draft: false
+tags: [Circles, Holidays, Image, Lanzarote, Photos, Travel]
+---
+
+[![Sands Beach coaster, Lanzarote](http://gerard.interwebworld.co.uk/files/2011/07/sands-beach-circle.jpg)](http://gerard.interwebworld.co.uk/files/2011/07/sands-beach-circle.jpg) This is another one of those [circle photos](http://gerardmcgarry.com/photo/cannon-fodder) I was telling you about. In this one, we put a beer mat in the middle of the table and framed it with the wicker that the table is made from. Anyway, a little bit about the Sands Beach Resort: it's a hotel complex with a collection of plazas at the back. We stayed there for a fortnight this year - there's plenty of entertainment, including a "Buddy Club" for kids that runs for two hours in the morning and two in the afternoon. They've also got nightly entertainment in the form of the Buddy Club mini-disco and whatever cabaret act is booked for that night. **A note about Buddy Club**: Check beforehand about charges for the club. It's seemingly free for guests who've booked through the resort. But if your apartment is rented from a private owner as ours was, there's a charge. Unfortunately, neither the hotel or the Buddy Club staff seem to agree on what that charge should be. Anyway, part of the point of this photo is that we spent many an evening sitting around these glass-topped tables supping beers.

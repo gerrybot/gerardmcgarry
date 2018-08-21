@@ -1,0 +1,12 @@
+---
+title: 'Levitating Man, Teguise Market, Lanzarote'
+date: Sat, 30 Jul 2011 12:25:25 +0000
+draft: false
+tags: [Holidays, Image, Lanzarote, Magic, Photos, Teguise, Travel]
+---
+
+[![Levitating Man in Teguise market](http://gerard.interwebworld.co.uk/files/2011/07/levitating-man-teguise.jpg)](http://gerard.interwebworld.co.uk/files/2011/07/levitating-man-teguise.jpg) Picture this: you're walking through a crowded market at the hottest part of the day. You have your slightly-bored children behind you, and you're now looking for the fastest way back to your car to escape the crowds and the heat. Then you look up and see a man, dressed in a red robe, _screaming_ at passers-by. And then it hits you - his legs are folded underneath him _and he's floating about three feet in the air_! The levitating man's only prop is a pole, bound up with cord. He holds his hand at the top of the pole as he lazily floats above the market cobbles. You blink. You hunker down to look for ropes or anything which might be keeping the man suspended. There's nothing. You walk right around him, mouth increasingly slack with disbelief as you realise this lunatic might actually be flying! Honestly, I couldn't believe my eyes. You can only imagine the frustration of knowing there was some trick involved, but not being able to work out how I was being fooled. The one clue was that the pole rises out of a mat which is weighed down by rocks. Clearly the rocks are concealing something - but what? And even if there _is_ a platform underneath to conterbalance the fakir's weight, _how is he supporting his entire weight on one arm?_ Well, after a bit of searching, this website reveals the secret to the "levitating man trick":
+
+> The trick is really very simple. The pole (probably not the one originally exhibited) has a strong metal core, and fits solidly into a socket in the ground. Onto its upper end, through the folds of the elaborate knot, is rigidly attached a horizontal iron rod, which passes under the Yogi's arm to the upper side of his body, and from the end of which he is suspended by means of some sort of harness around his body. The rod is concealed by his half-closed hand and voluminous, wrist-length sleeves.
+
+So now you know!

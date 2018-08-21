@@ -1,0 +1,8 @@
+---
+title: 'Lava fields outside Fundación César Manrique, Tahiche, Lanzarote'
+date: Sat, 16 Jul 2011 17:57:13 +0000
+draft: false
+tags: [César Manrique, Holidays, Image, Lanzarote, Photos, Travel, Volcanoes]
+---
+
+[![Lava fields at the Fundacion Cesar Manrique, Lanzarote](http://gerard.interwebworld.co.uk/files/2011/07/lava-fields-Fundacion-Cesar-Manrique.jpg)](http://gerard.interwebworld.co.uk/files/2011/07/lava-fields-Fundacion-Cesar-Manrique.jpg) I took this shot from the garden of the [**Fundación César Manrique**](http://www.fcmanrique.org/) \- it shows a volcano in the distance and the fields of lava that surround the building. It's a reminder that the house and administrative buildings are built on top of five natural 'bubbles' that occur in the rock. That blackened sea of lava dates back to the eruptions that changed the face of the island back in the 18th Century. When you're visiting the Foundation, it's hard to imagine fields of red-hot lava and the outlandish local artist who would come along in 1966 and carve a home out of that rock. Honestly, if you ever get the chance to visit Manrique's former home, you'll be breathtaken by the imagination that he must have had to reclaim that unusable space and turn it into something beautiful. The other merit that it has is that it has precious little technology integrated. There's some electric light, but most of the chambers are lit by daylight - trees grow in the ground up through holes in the chamber to the gardens above. Aside from that, there's no clutter, no televisions or laptops. It's incredibly zen. And of course, now my wife wants her own volcanic chamber. Me too!

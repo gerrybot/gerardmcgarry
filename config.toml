@@ -1,0 +1,75 @@
+baseurl = "https://gerardmcgarry.com/"
+title = "Gerard McGarry"
+theme = "hugo-nederburg-theme"
+languageCode = "en-gb"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-54080-12"
+preserveTaxonomyNames = true
+paginate = 15 #frontpage pagination
+
+[params]
+  slogan = "Adventures on the Interwebs"
+  description = "Describe your website" # meta description
+  author = "Gerard McGarry"
+  authorLink = "https://gerardmcgarry.com/"
+  bio = [
+    "Liberal, humanist type. Optimist. Lover of life. Tryer of new things."
+  ]
+  copyright = [
+    "&copy; 2018 Gerard McGarry"
+  ]
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "mcgarrygerard@gmail.com"
+
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Get in touch"
+  url = "contact/"
+  weight = 3
+
+  [params.social]
+  facebook      = ""
+  googleplus    = ""
+  email         = "hello@gerardmcgarry.com"
+  twitter       = "https://twitter.com/gerrybot"
+  linkedin      = "https://www.linkedin.com/in/gerardmcgarry/"
+  stackoverflow = ""
+  instagram     = "https://www.instagram.com/gerrybot/"
+  github        = ""
+  pinterest     = ""
+  rss           = true
+
+  [permalinks]
+  post = "/:year/:month/:day/:title/"
+
+  [build]
+  publish = "public"
+  command = "hugo"
+
+  [context.production.environment]
+  HUGO_VERSION = "0.47.1"

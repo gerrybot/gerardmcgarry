@@ -1,0 +1,8 @@
+---
+title: 'Pump House at the Thompson Graving Dock, Belfast'
+date: Sun, 19 Oct 2008 17:54:35 +0000
+draft: false
+tags: [Belfast, Image, Northern Ireland, Photos, Titanic]
+---
+
+[![Titanic Pump House at the Thompson Graving Dock, Belfast](http://gerard.interwebworld.co.uk/files/2008/10/TITANIC-PUMP-HOUSE.jpg)](http://gerard.interwebworld.co.uk/files/2008/10/TITANIC-PUMP-HOUSE.jpg) The Pump House at the Thompson Graving Dock in Belfast. The Titanic was built here almost a century ago, and the area - interestingly - has a mix of old ship building scenery around it, but with a growing number of modern office buildings surrounding it. It think it's interesting to see the old industrial era of Belfast mixed in with the emerging technology and service businesses that are now starting to thrive in the city.  **About the photo** I was having a mess around with the shutter speed settings on the camera to counteract the heavily overcast weather, and ended up with quote a dark, brooding shot. When I got a look at it on the computer, I decided to use Photoshop to enhance it. I selected around the pump house and copied it to a seperate layer. I made a copy of the original photo and desaturated it, then copied this layer, set its blend mode to overlay and about 50% opacity, giving a more dramatic sky. Next, I added a black and white radial gradient on a new layer, and set it to overlay again with a 35% opacity. Finally, I reinstated the pump house, and played with the levels until I got it looking as dramatic as the surroundings.

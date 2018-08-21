@@ -1,0 +1,8 @@
+---
+title: 'The National Gallery, London'
+date: Tue, 14 Apr 2009 16:31:40 +0000
+draft: false
+tags: [Buildings, Image, London, Museums, Photos, Travel]
+---
+
+\[caption id="attachment_755" align="alignnone" width="520"\][![The National Gallery, London](http://gerard.interwebworld.co.uk/files/2009/04/national-gallery-london.jpg)](http://gerard.interwebworld.co.uk/files/2009/04/national-gallery-london.jpg) The National Gallery in Trafalgar Square, London\[/caption\] This is the **National Gallery**, which is situated on the north side of London's Trafalgar Square. The gallery was established in 1824, when the British government bought 36 paintings from a banker called John Julius Angerstein. In the late 18th Century, there was a trend toward nationalising the royal art collections. This happened in Italy, Germany and France. However, Britain didn't follow this model and instead a series of events led to the establishment of the National Gallery. First, Angerstein's collection became available. Then it was proposed in Parliament that the government buy the collection, strengthened by a generous offer by Sir George Beaumont to donate 16 paintings. Third, Austria repaid a war debt, which provided the funds to purchase the collection for £57,000. The National Gallery was originally housed at No. 100, Pall Mall, but eventually moved to its current location in Trafalgar Square. The building was designed by William Wilkins between 1832-8, and the magnificent facade has remained virtually unchanged ever since, despite frequent expansions of the premises in the intervening years. The [National Gallery website is here](http://www.nationalgallery.org.uk/).

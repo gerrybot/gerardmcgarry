@@ -1,0 +1,8 @@
+---
+title: 'FCKeditor'
+date: Thu, 06 Mar 2008 16:00:53 +0000
+draft: false
+tags: [Drupal, Web Design]
+---
+
+When I started working with Drupal, I used to gravitate toward TinyMCE as an editor. I think it was because I was used to it from WordPress. However, [TinyMCE](http://drupal.org/project/tinymce) seems like a bit of overkill when you're dealing with user-generated content (although it does have integration with the img_assist module). Lately though, I've been playing around with the [FCKeditor](http://drupal.org/project/fckeditor) module which integrates a simpler HTML editor with the text fields in [Drupal](http://drupal.org/). It's got quite a nice URL input tool and works quite smoothly with standard keyboard shortcuts like CTRL+B, CTRL+I, etc. The only problem I have with it is that it doesn't input semantic XHTML. It'll use a <b> tag instead of a <strong> and a <i> instead of an <em>. Now, I'm not going to lose sleep over depreciated HTML elements, but you'd think the people coding these things would catch on by now and [standardise on XHTML](http://www.webstandards.org/), wouldn't you? The other think I like is that there are predefined toolbar sets so that you don't have to go around configuring every button on the WYSIWYG editor. So you can allow basic text editing like bold, italic, bulleted and ordered lists and headings but ignore the other unnecessary options. That's a nice touch. You can even enable it on comment fields if you want to capture richer input from visitors.

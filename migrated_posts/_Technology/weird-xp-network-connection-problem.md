@@ -1,0 +1,8 @@
+---
+title: 'Weird XP Network Connection Problem'
+date: Fri, 06 Jan 2006 08:04:01 +0000
+draft: false
+tags: [Tech Stuff]
+---
+
+Yesterday my Windows XP Pro PC had a hissy fit and crashed. Rebooted and got the Blue Screen Of Death. Rebooted successfully to safe mode, then into normal functionality. Or so I thought... So, I was immediately able to connect to the network, log on and access the internet and work with my exchange mailbox. The first indication of problems was when I tried to access my documents on a network share. I started getting messages about the Network Service not being started. I started troubleshooting basic functionality: pinged a few local servers, checked out DNS resolution, etc and it was all fine. Tried a `net use` to connect a network drive, but this failed. I checked the various network services and all were running normally, so I tried to simply browse the network through the childishly-named **My Network Places**, but got a similar "Unable to browse the network" error, along with "The network is not present or not started". Shit! Enter [Google](http://www.google.com/search?hl=en&q=%22unable+to+browse+the+network%22+%22not+present%22+xp)... Turns out whatever happened screwed up a registry value which bizarrely allowed other network access, but not UNC-type stuff. I found [a thread at CryptoOnline](http://www.cryptoonline.com/-the-network-is-not-present-or-not-started-error-message-vt35438.html) that pointed me through to the [official fix at Microsoft](http://support.microsoft.com/default.aspx?scid=kb;en-us;170336). Follow this fix and you should be able to browse the network again immediately without a reboot. Hope this helps anyone who has suffered the same problem.

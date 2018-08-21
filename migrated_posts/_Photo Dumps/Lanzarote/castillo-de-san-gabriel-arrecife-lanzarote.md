@@ -1,0 +1,8 @@
+---
+title: 'Castillo de San Gabriel, Arrecife, Lanzarote'
+date: Thu, 14 Jul 2011 15:31:14 +0000
+draft: false
+tags: [Buildings, Castles, Holidays, Image, Lanzarote, Photos, Travel]
+---
+
+[![Castillo de San Gabriel, Lanzarote](http://gerard.interwebworld.co.uk/files/2011/07/castillo-de-san-gabriel.jpg)](http://gerard.interwebworld.co.uk/files/2011/07/castillo-de-san-gabriel.jpg) This is the **Castillo de San Gabriel** on the coast of the Lanzarote town of [Arrecife](http://www.discoverlanzarote.com/arrecife.asp). It's one of two castles in the town, the other being the Castillo de San José (though we never managed to find that castle). Built in 1574 to defend the harbour at Arrecife, the small fortress has two cannon at the front door. Unfortunately, it was destroyed in 1586 by the Algerian Pirate Morato Arraez. The current castle dates back to a reconstruction project undertaken in 1592 to a design by the Italian architect Leonardo Torriani. There are two wonderful stone bridges leading out to the island that the Castillo de San Gabriel sits on. One is a solid stone bridge, and the other has a disused drawbridge. The town of Arrecife is incredibly picturesque and has a more authentic Spanish feel compared to the nearby resorts of Puerto del Carmen and Costa Teguise. It actually reminded me vaguely of the [Spanish town of Torrevieja](http://gerard.interwebworld.co.uk/2010/the-torrevieja-tourist-train/ "The Torrevieja tourist train") that we visited last year.

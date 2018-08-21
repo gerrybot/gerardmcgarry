@@ -1,0 +1,8 @@
+---
+title: 'Drupal 6'
+date: Thu, 14 Feb 2008 14:13:45 +0000
+draft: false
+tags: [Drupal, Web Design]
+---
+
+[![Drupal Logo](http://gerard.interwebworld.co.uk/files/2011/01/drupal-logo.jpg)](http://gerard.interwebworld.co.uk/files/2011/01/drupal-logo.jpg)After a seriously long wait, [Drupal 6](http://drupal.org) has been released to the web. By coincidence, I checked for it yesterday, as I've been watching the Drupal site for a while. I've done a quick upgrade (made a major screw-up along the way), and upgraded some modules. All in all, this site isn't too heavy on contributed modules. I don't even use [pathauto](http://drupal.org/project/pathauto) here, so upgrading was relatively straightforward. My big screw-up was that I put the site into maintenance mode to prepare for the upgrade. Then I **logged out** to verify that maintenance mode had worked. Big mistake. When the site's in maintenance mode, there's no obvious way to log back in as the admin. Thankfully, a quick search reveals that by accessing yoursite.com/user, you can log in again. Phew! Anyway, my big test at the moment is to confirm if Windows Live Writer and Drupal 6 will work together. This post has been drafted in Live Writer, so I'm intrigued to see what happens when I hit that post button... **Update:** Someone has sponsored a port of the Drupal 5 blog API across to Drupal 6. It's now available as [a module to download](http://drupal.org/project/wlw_blogapi). I've just tested it against this blog and it works perfectly.

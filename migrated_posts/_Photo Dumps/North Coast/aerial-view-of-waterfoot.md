@@ -1,0 +1,8 @@
+---
+title: 'Aerial View of Waterfoot'
+date: Thu, 09 Apr 2009 22:48:05 +0000
+draft: false
+tags: [Image, Northern Ireland, Photos, Scenic, Waterfoot]
+---
+
+[![Ariel view of Waterfoot, Co. Antrim](http://gerard.interwebworld.co.uk/files/2009/04/ariel-waterfoot.jpg)](http://gerard.interwebworld.co.uk/files/2009/04/ariel-waterfoot.jpg) An ariel view of the Country Antrim village of Waterfoot - I took this on a hot summer's day back in 2006 by trudging up Lurigedan, the mountain that overlooks Waterfoot and Cushendall. Needless to say, I was a hyperventilating, sweaty mess by the time I got to the top. And to add to my embarrassment, I was beaten to the summit by a group of giddy teenage girls who I'm sure were laughing at the half-dead guy crawling along at a snail's pace behind them. All the same, I'm glad I did it. The view alone was worth it. Take a look at how square the bay is...you can only get a sense of that from above. While I was getting my breath back, I broke out some grub I'd taken with me and sat on a rocky outcrop as a bird screeched and swooped over the valley. Even though I'm no Bill Oddie, let's assume it was some kind of bird of prey, alright? Up on top of Lurigedan, things are _very interesting_. You take a walk around - there are wild goats sleeping on little ledges at the side of the hill, old skulls of long-dead animals. I've got to get up there again during the summer and do it all again. I think I'm in slightly better health this year, so getting to the top shouldn't be as much of a problem.

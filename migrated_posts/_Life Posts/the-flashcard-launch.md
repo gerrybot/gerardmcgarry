@@ -1,0 +1,8 @@
+---
+title: 'The Flashcard Launch'
+date: Tue, 20 Dec 2005 20:50:12 +0000
+draft: false
+tags: [Starting A Business]
+---
+
+When we started our business about a year and a half ago, Scribble Designs slowly morphed into a [web design company](http://www.scribbledesigns.co.uk). That wasn't the original plan! Lisa and I actually started the business with the intention of designing and selling children's educational products. Financing the initial print run was tricky - we didn't have any spare cash, and we didn't want the risk of a large loan to start us off. So, we took the more cumbersome route - we decided to raise the capital through our other marketable skill: web design. We initially got a few jobs from the local enterprise agency which started off our portfolio, then people started coming to us directly through word of mouth. Eventually (almost a year later) we had the funds we needed to start the printing press rolling! When we took delivery of the printed cards, we also took responsibility for collating them manually. You could never guess how time consuming (not to mention painful) this experience was! Standing for hours in front of our kitchen counters with rows upon rows of flashcards, gathering them up, putting them in the boxes, finding somewhere to store all the boxes...... Next time (if there is a next time), we'll hire some people to do this, or brow-beat family and friends into helping.... Anyway, the "TA-DA" moment has arrived! Our first set of [children's educational flashcards](http://www.scribbledesigns.co.uk/educational-products/) is now available! You can visit the site and see examples of our cards and even buy a set if you like. We won't try to stop you!
