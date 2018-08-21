@@ -1,6 +1,6 @@
 ---
 title: 'Impulse:'
-date: Mon, 30 Nov -0001 00:00:00 +0000
+date: Tue, 01 May 2018 21:54:41 +0000
 draft: true
 tags: [Internet, Reviews, TV, YouTube]
 ---
