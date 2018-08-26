@@ -1,0 +1,16 @@
+{{ $altText := .Get "alt"}}
+{{ $caption := .Get "caption"}}
+{{ with $.Page.Resources.GetMatch (.Get "name") }}
+<figure>
+  <picture title="{{ $altText }}">
+    <source data-srcset="{{ (.Resize "750x").RelPermalink }} 750w, {{ (.Resize "1500x").RelPermalink }} 2x" media="(min-width: 750px)">
+    <source data-srcset="{{ (.Resize "400x").RelPermalink }} 400w, {{ (.Resize "800x").RelPermalink }} 2x" media="(min-width: 400px)">
+    <img class="lazy lazy-image" data-src="{{.RelPermalink}}" alt="{{ $altText }}">
+  </picture>
+  {{ if $caption }}
+  <figcaption>{{ $caption }}</figcaption>
+  {{ end }}
+</figure>
+{{ else }}
+  <p>Whoops! Couldn't find image</p>
+{{ end }}

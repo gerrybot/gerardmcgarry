@@ -2693,3 +2693,10 @@ li.pingback:first-child {
     width: 500px !important;
   }
 }
+
+figure {
+  margin: 0;
+  padding: 0;
+  display: block;
+  
+}

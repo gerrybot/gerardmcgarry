@@ -14,13 +14,13 @@ Back then, we didn't have a car, so we walked everywhere around the place, took 
 
 Here's a photo I took during our holiday in Malta in 2000. It's the abandoned set from the Popeye movie featuring Robin Williams. Normally, a movie production would be expected to restore an area to its original condition, but I suppose on this occassion the Maltese folk thought it might be handy to keep it as a tourist attraction. Of course, Malta's had a few more movies, Ridley Scott's Gladiator for one, but also a few James Bond movies as well. I think Troy may have been filmed there too.
 
-![Popeye Village, Malta](popeye-village.jpg) 
+{{< image name="popeye-village.jpg" alt="Popeye Village, Malta" caption="Popeye Village, Malta" >}}
 
 ## Our Lady of Ta Pinu, Gozo
 
 The shrine of Our Lady of Ta' Pinu is located on the island of Gozo, a short ferry journey from Malta. It is located just outside the village of Gharb. We traveled there by coach in the autumn of 2000. The inside of the basillica is extremely quiet and serene, and visitors are asked to cover up exposed flesh while inside - I think Lisa was provided with a wrap to cover her legs on the day (she was wearing shorts). It was quite nice to see the observation of old traditions back then, something which came across a lot during our visit to Malta.
 
-![Our Lady of Ta Pinu, Gozo, Malta](ta-pinu-church-gozo.jpg) 
+{{< image name="ta-pinu-church-gozo.jpg" alt="Our Lady of Ta Pinu, Gozo, Malta" caption="Our Lady of Ta Pinu, Gozo, Malta" >}}
 
 ### What does the name mean?
 
