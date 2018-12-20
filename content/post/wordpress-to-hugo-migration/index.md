@@ -1,7 +1,7 @@
 ---
 title: "Wordpress to Hugo Migration"
 date: 2018-08-10T17:18:52+01:00
-draft: false
+draft: true
 ---
 
 Steps to migrating from WordPress to Hugo
