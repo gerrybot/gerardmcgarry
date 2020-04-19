@@ -5,7 +5,6 @@ draft: false
 tags: [Productivity, Self Improvement]
 categories: [Life]
 image: spreadsheet.jpg
-weight: 5
 ---
 
 Or, how I learned to stop freewheeling my personal life and finally get my shit together.

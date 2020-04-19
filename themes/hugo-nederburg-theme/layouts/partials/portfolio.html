@@ -1,7 +1,7 @@
 <h1 class="screen-reader-text">Posts</h1>
 
 <div id="loop-container" class="loop-container">
-	{{ $paginator := .Paginate (where (where .Site.Pages "Type" "post") "IsPage" true) }}
+	{{ $paginator := .Paginate (where (where .Site.Pages.ByPublishDate.Reverse "Type" "post") "IsPage" true) }}
 	{{ range $index, $element := .Paginator.Pages }}
 	{{ if and (isset .Params "image") .Params.image }}
 	{{ if eq (mod $index 2) 0 }}

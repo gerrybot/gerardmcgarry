@@ -5,7 +5,6 @@ draft: false
 tags: [Abandoned Places, Countryside, Glenshesk, Memory, Northern Ireland, Stories]
 categories: [Life]
 image: p8200028.jpg
-weight: 5
 ---
 
 Tom and Eileen's house. Glenshesk, 2006. 

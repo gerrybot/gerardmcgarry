@@ -13,7 +13,7 @@ paginate = 15 #frontpage pagination
   slogan = "Adventures on the Interwebs"
   description = "Describe your website" # meta description
   author = "Gerard McGarry"
-  authorLink = "https://gerardmcgarry.com/"
+  authorLink = "https://gerardmcgarry.com/about/"
   bio = [
     "Liberal, humanist type. Optimist. Lover of life. Tryer of new things."
   ]
@@ -72,4 +72,4 @@ paginate = 15 #frontpage pagination
   command = "hugo"
 
   [context.production.environment]
-  HUGO_VERSION = "0.47.1"
+  HUGO_VERSION = "0.66.0"
