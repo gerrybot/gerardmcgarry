@@ -9,10 +9,10 @@ image: p8200028.jpg
 
 Tom and Eileen's house. Glenshesk, 2006. 
 
-_The lure of an abandoned house is in **not** knowing the story of the people who lived there. Imagining the people who lived there. What their lives were like. Why they left behind their home and where they went to next. But with this place, I knew the people well._ 
+_The lure of an abandoned house is in imagining the story of the people who lived there. Who they were. What their lives were like. Why they left behind their home and where they went to next. But in the case of this hillside house in Glenshesk, I knew the people well._ 
 <!--more-->
 
-My father's aunt and uncle, Tom and Eileen lived in this place with their daughter Shiela until the roof literally started caving in. It had no plumbing that I know of, no electricity, and their only source of entertainment was a battery-powered radio. 
+My father's aunt and uncle, Tom and Eileen lived in this place with their daughter Sheila until the roof literally started caving in. It had no plumbing that I know of, no electricity, and their only source of entertainment was a battery-powered radio. 
 
 {{< image name="p8200031.jpg" alt="Collapsing ceiling in abandoned house, Glenshesk" caption="Collapsing ceiling in abandoned house, Glenshesk" >}}
 
