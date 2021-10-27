@@ -1,7 +1,7 @@
 ---
 title: 'Romance and heartbreak at Ceoffin Castle'
 author: gerrybot
-date: 2021-07-11
+date: 2021-10-27
 draft: false
 tags: [Scotland, Castles, Travel, Memories, 2021]
 categories: [Life]
