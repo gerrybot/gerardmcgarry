@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portumna on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/portumna/</link>
+    <link>http://localhost:1313/tags/portumna/</link>
     <description>Recent content in Portumna on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 08 Aug 2009 17:00:47 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/portumna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2009 17:00:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/portumna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portumna Castle</title>
-      <link>https://gerardmcgarry.com/2009/08/08/portumna-castle/</link>
+      <link>http://localhost:1313/2009/08/08/portumna-castle/</link>
       <pubDate>Sat, 08 Aug 2009 17:00:47 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/08/08/portumna-castle/</guid>
+      <guid>http://localhost:1313/2009/08/08/portumna-castle/</guid>
       <description>&lt;p&gt;The boys and I have just come back from a short trip to Galway. On the second day we stopped off at &lt;strong&gt;Portumna&lt;/strong&gt;, a quiet little town that Lisa and I discovered on a Shannon cruise about 9 years previously.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>North Coast on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/north-coast/</link>
+    <link>http://localhost:1313/tags/north-coast/</link>
     <description>Recent content in North Coast on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/north-coast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/north-coast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cutting Turf</title>
-      <link>https://gerardmcgarry.com/2021/07/11/cutting-turf/</link>
+      <link>http://localhost:1313/2021/07/11/cutting-turf/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/07/11/cutting-turf/</guid>
+      <guid>http://localhost:1313/2021/07/11/cutting-turf/</guid>
       <description>&lt;p&gt;&lt;em&gt;Like many working class families, we used to cut turf for our fires in the winter. A visit to an old peat bog brings back some childhood memories&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Northern Ireland North Coast Photos 2021</title>
-      <link>https://gerardmcgarry.com/2021/06/10/northern-ireland-north-coast-photos-2021/</link>
+      <link>http://localhost:1313/2021/06/10/northern-ireland-north-coast-photos-2021/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/06/10/northern-ireland-north-coast-photos-2021/</guid>
+      <guid>http://localhost:1313/2021/06/10/northern-ireland-north-coast-photos-2021/</guid>
       <description>&lt;p&gt;&lt;em&gt;A collection of Instagram shots from drives around the North Coast of Northern Ireland in 2021&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

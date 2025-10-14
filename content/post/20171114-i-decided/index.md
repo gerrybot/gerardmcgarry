@@ -2,7 +2,7 @@
 title: 'I decided...'
 date: Tue, 14 Nov 2017 10:48:25 +0000
 image: img_20171110_205311_6721.jpg
-draft: false
+draft: true
 categories: [Life]
 tags: [Meditation, Self Improvement, Thoughts, Wellness, Yoga]
 ---

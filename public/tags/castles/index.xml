@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Castles on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/castles/</link>
+    <link>http://localhost:1313/tags/castles/</link>
     <description>Recent content in Castles on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/castles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/castles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Romance and heartbreak at Ceoffin Castle</title>
-      <link>https://gerardmcgarry.com/2021/07/11/romance-and-heartbreak-at-ceoffin-castle/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/07/11/romance-and-heartbreak-at-ceoffin-castle/</guid>
+      <link>http://localhost:1313/2021/10/27/romance-and-heartbreak-at-ceoffin-castle/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2021/10/27/romance-and-heartbreak-at-ceoffin-castle/</guid>
       <description>&lt;p&gt;&lt;em&gt;On the Isle of Lismore, far off the beaten track, is the shambling ruin of Castle Ceoffin. It resembles, more than anything, a gnarled, groping hand reaching skyward.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Portumna Castle</title>
-      <link>https://gerardmcgarry.com/2009/08/08/portumna-castle/</link>
+      <link>http://localhost:1313/2009/08/08/portumna-castle/</link>
       <pubDate>Sat, 08 Aug 2009 17:00:47 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/08/08/portumna-castle/</guid>
+      <guid>http://localhost:1313/2009/08/08/portumna-castle/</guid>
       <description>&lt;p&gt;The boys and I have just come back from a short trip to Galway. On the second day we stopped off at &lt;strong&gt;Portumna&lt;/strong&gt;, a quiet little town that Lisa and I discovered on a Shannon cruise about 9 years previously.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

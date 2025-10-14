@@ -2,208 +2,218 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gerardmcgarry.com/2021/07/11/cutting-turf/</loc>
+    <loc>http://localhost:1313/2023/12/08/an-ode-to-toronto/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2021/10/27/romance-and-heartbreak-at-ceoffin-castle/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2021/07/11/cutting-turf/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2021/07/11/romance-and-heartbreak-at-ceoffin-castle/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/2021/06/10/northern-ireland-north-coast-photos-2021/</loc>
+    <loc>http://localhost:1313/2021/06/10/northern-ireland-north-coast-photos-2021/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/2021/</loc>
+    <loc>http://localhost:1313/tags/2023/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/canada/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/life/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/toronto/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/2021/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/castles/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/memories/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scotland/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/county-antrim/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/castles/</loc>
+    <loc>http://localhost:1313/tags/culture/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/categories/</loc>
+    <loc>http://localhost:1313/tags/north-coast/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/county-antrim/</loc>
+    <loc>http://localhost:1313/tags/northern-ireland/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/culture/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/categories/life/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/memories/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/north-coast/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/northern-ireland/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/post/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/scotland/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/travel/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/ballycastle/</loc>
+    <loc>http://localhost:1313/tags/ballycastle/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/categories/photos/</loc>
+    <loc>http://localhost:1313/categories/photos/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/coronavirus/</loc>
+    <loc>http://localhost:1313/tags/coronavirus/</loc>
     <lastmod>2020-04-19T15:17:01+01:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2020/04/19/life-under-lockdown/</loc>
+    <loc>http://localhost:1313/2020/04/19/life-under-lockdown/</loc>
     <lastmod>2020-04-19T15:17:01+01:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/pandemic/</loc>
+    <loc>http://localhost:1313/tags/pandemic/</loc>
     <lastmod>2020-04-19T15:17:01+01:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/quarantine/</loc>
+    <loc>http://localhost:1313/tags/quarantine/</loc>
     <lastmod>2020-04-19T15:17:01+01:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/edinburgh/</loc>
+    <loc>http://localhost:1313/tags/edinburgh/</loc>
     <lastmod>2020-03-06T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/instagram/</loc>
+    <loc>http://localhost:1313/tags/instagram/</loc>
     <lastmod>2020-03-06T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/london/</loc>
+    <loc>http://localhost:1313/tags/london/</loc>
     <lastmod>2020-03-06T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/manchester/</loc>
+    <loc>http://localhost:1313/tags/manchester/</loc>
     <lastmod>2020-03-06T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2020/03/06/no-filter-2019-on-instagram/</loc>
+    <loc>http://localhost:1313/2020/03/06/no-filter-2019-on-instagram/</loc>
     <lastmod>2020-03-06T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/sweden/</loc>
+    <loc>http://localhost:1313/tags/sweden/</loc>
     <lastmod>2020-03-06T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/yoga/</loc>
+    <loc>http://localhost:1313/tags/yoga/</loc>
     <lastmod>2020-03-06T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/productivity/</loc>
+    <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2018-12-18T09:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/self-improvement/</loc>
+    <loc>http://localhost:1313/tags/self-improvement/</loc>
     <lastmod>2018-12-18T09:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2018/12/18/the-year-of-the-spreadsheet/</loc>
+    <loc>http://localhost:1313/2018/12/18/the-year-of-the-spreadsheet/</loc>
     <lastmod>2018-12-18T09:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/abandoned-places/</loc>
+    <loc>http://localhost:1313/tags/abandoned-places/</loc>
     <lastmod>2018-05-01T21:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/countryside/</loc>
+    <loc>http://localhost:1313/tags/countryside/</loc>
     <lastmod>2018-05-01T21:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/glenshesk/</loc>
+    <loc>http://localhost:1313/tags/glenshesk/</loc>
     <lastmod>2018-05-01T21:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/memory/</loc>
+    <loc>http://localhost:1313/tags/memory/</loc>
     <lastmod>2018-05-01T21:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/stories/</loc>
+    <loc>http://localhost:1313/tags/stories/</loc>
     <lastmod>2018-05-01T21:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2018/05/01/tom-and-eileen/</loc>
+    <loc>http://localhost:1313/2018/05/01/tom-and-eileen/</loc>
     <lastmod>2018-05-01T21:54:41+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/belfast/</loc>
+    <loc>http://localhost:1313/tags/belfast/</loc>
     <lastmod>2018-03-28T23:48:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2018/03/28/so-long-rugby-road/</loc>
+    <loc>http://localhost:1313/2018/03/28/so-long-rugby-road/</loc>
     <lastmod>2018-03-28T23:48:00+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2017/11/14/i-decided.../</loc>
-    <lastmod>2017-11-14T10:48:25+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/meditation/</loc>
-    <lastmod>2017-11-14T10:48:25+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/thoughts/</loc>
-    <lastmod>2017-11-14T10:48:25+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/tags/wellness/</loc>
-    <lastmod>2017-11-14T10:48:25+00:00</lastmod>
-  </url><url>
-    <loc>https://gerardmcgarry.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2010/06/13/anniversaries/</loc>
+    <loc>http://localhost:1313/2010/06/13/anniversaries/</loc>
     <lastmod>2010-06-13T20:19:56+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/death/</loc>
+    <loc>http://localhost:1313/tags/death/</loc>
     <lastmod>2010-06-13T20:19:56+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/family/</loc>
+    <loc>http://localhost:1313/tags/family/</loc>
     <lastmod>2009-08-25T23:43:14+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/funerals/</loc>
+    <loc>http://localhost:1313/tags/funerals/</loc>
     <lastmod>2009-08-25T23:43:14+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2009/08/25/the-funeral/</loc>
+    <loc>http://localhost:1313/2009/08/25/the-funeral/</loc>
     <lastmod>2009-08-25T23:43:14+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/image/</loc>
+    <loc>http://localhost:1313/tags/image/</loc>
     <lastmod>2009-08-08T17:00:47+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/ireland/</loc>
+    <loc>http://localhost:1313/tags/ireland/</loc>
     <lastmod>2009-08-08T17:00:47+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/portumna/</loc>
+    <loc>http://localhost:1313/tags/portumna/</loc>
     <lastmod>2009-08-08T17:00:47+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2009/08/08/portumna-castle/</loc>
+    <loc>http://localhost:1313/2009/08/08/portumna-castle/</loc>
     <lastmod>2009-08-08T17:00:47+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2009/05/24/an-atheists-approach-to-death/</loc>
+    <loc>http://localhost:1313/2009/05/24/an-atheists-approach-to-death/</loc>
     <lastmod>2009-05-24T00:27:43+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/atheism/</loc>
+    <loc>http://localhost:1313/tags/atheism/</loc>
     <lastmod>2009-05-24T00:27:43+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/religion/</loc>
+    <loc>http://localhost:1313/tags/religion/</loc>
     <lastmod>2009-05-24T00:27:43+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2009/04/24/an-unexpected-trip-to-lourdes/</loc>
+    <loc>http://localhost:1313/2009/04/24/an-unexpected-trip-to-lourdes/</loc>
     <lastmod>2009-04-24T12:28:45+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/france/</loc>
+    <loc>http://localhost:1313/tags/france/</loc>
     <lastmod>2009-04-24T12:28:45+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/lourdes/</loc>
+    <loc>http://localhost:1313/tags/lourdes/</loc>
     <lastmod>2009-04-24T12:28:45+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/malta/</loc>
+    <loc>http://localhost:1313/tags/malta/</loc>
     <lastmod>2009-04-01T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2009/04/01/malta-november-2000/</loc>
+    <loc>http://localhost:1313/2009/04/01/malta-november-2000/</loc>
     <lastmod>2009-04-01T13:14:10+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/photoshop/</loc>
+    <loc>http://localhost:1313/tags/photoshop/</loc>
     <lastmod>2008-07-14T00:13:21+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/portrait/</loc>
+    <loc>http://localhost:1313/tags/portrait/</loc>
     <lastmod>2008-07-14T00:13:21+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/tags/screenshots/</loc>
+    <loc>http://localhost:1313/tags/screenshots/</loc>
     <lastmod>2008-07-14T00:13:21+00:00</lastmod>
   </url><url>
-    <loc>https://gerardmcgarry.com/2008/07/14/venice-july-2008/</loc>
+    <loc>http://localhost:1313/2008/07/14/venice-july-2008/</loc>
     <lastmod>2008-07-14T00:13:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/alcohol/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/dry-january/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/meditation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/thoughts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/wellness/</loc>
   </url>
 </urlset>

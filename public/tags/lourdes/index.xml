@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lourdes on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/lourdes/</link>
+    <link>http://localhost:1313/tags/lourdes/</link>
     <description>Recent content in Lourdes on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 24 Apr 2009 12:28:45 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/lourdes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Apr 2009 12:28:45 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lourdes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An unexpected trip to Lourdes</title>
-      <link>https://gerardmcgarry.com/2009/04/24/an-unexpected-trip-to-lourdes/</link>
+      <link>http://localhost:1313/2009/04/24/an-unexpected-trip-to-lourdes/</link>
       <pubDate>Fri, 24 Apr 2009 12:28:45 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/04/24/an-unexpected-trip-to-lourdes/</guid>
+      <guid>http://localhost:1313/2009/04/24/an-unexpected-trip-to-lourdes/</guid>
       <description>&lt;p&gt;Last Wednesday I got dragged to France. I&amp;rsquo;ve never been to France, although I have tried their method of kissing before and even their ticklers once or twice.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

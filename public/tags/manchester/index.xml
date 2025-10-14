@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manchester on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/manchester/</link>
+    <link>http://localhost:1313/tags/manchester/</link>
     <description>Recent content in Manchester on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 06 Mar 2020 13:14:10 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/manchester/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Mar 2020 13:14:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/manchester/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Filter: 2019 on Instagram</title>
-      <link>https://gerardmcgarry.com/2020/03/06/no-filter-2019-on-instagram/</link>
+      <link>http://localhost:1313/2020/03/06/no-filter-2019-on-instagram/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2020/03/06/no-filter-2019-on-instagram/</guid>
+      <guid>http://localhost:1313/2020/03/06/no-filter-2019-on-instagram/</guid>
       <description>&lt;p&gt;A round-up of photos from Instagram. From travels to far flung places. And near flung places.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

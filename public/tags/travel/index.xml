@@ -2,64 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/travel/</link>
+    <link>http://localhost:1313/tags/travel/</link>
     <description>Recent content in Travel on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cutting Turf</title>
-      <link>https://gerardmcgarry.com/2021/07/11/cutting-turf/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/07/11/cutting-turf/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Like many working class families, we used to cut turf for our fires in the winter. A visit to an old peat bog brings back some childhood memories&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
+      <title>An Ode To Toronto</title>
+      <link>http://localhost:1313/2023/12/08/an-ode-to-toronto/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/12/08/an-ode-to-toronto/</guid>
+      <description>&lt;p&gt;&lt;em&gt;For the past couple of years, an idea has been bubbling at the back of my mind: What if you could live and work somewhere else in the world?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Romance and heartbreak at Ceoffin Castle</title>
-      <link>https://gerardmcgarry.com/2021/07/11/romance-and-heartbreak-at-ceoffin-castle/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/07/11/romance-and-heartbreak-at-ceoffin-castle/</guid>
+      <link>http://localhost:1313/2021/10/27/romance-and-heartbreak-at-ceoffin-castle/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2021/10/27/romance-and-heartbreak-at-ceoffin-castle/</guid>
       <description>&lt;p&gt;&lt;em&gt;On the Isle of Lismore, far off the beaten track, is the shambling ruin of Castle Ceoffin. It resembles, more than anything, a gnarled, groping hand reaching skyward.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Cutting Turf</title>
+      <link>http://localhost:1313/2021/07/11/cutting-turf/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2021/07/11/cutting-turf/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Like many working class families, we used to cut turf for our fires in the winter. A visit to an old peat bog brings back some childhood memories&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Northern Ireland North Coast Photos 2021</title>
-      <link>https://gerardmcgarry.com/2021/06/10/northern-ireland-north-coast-photos-2021/</link>
+      <link>http://localhost:1313/2021/06/10/northern-ireland-north-coast-photos-2021/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/06/10/northern-ireland-north-coast-photos-2021/</guid>
+      <guid>http://localhost:1313/2021/06/10/northern-ireland-north-coast-photos-2021/</guid>
       <description>&lt;p&gt;&lt;em&gt;A collection of Instagram shots from drives around the North Coast of Northern Ireland in 2021&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>No Filter: 2019 on Instagram</title>
-      <link>https://gerardmcgarry.com/2020/03/06/no-filter-2019-on-instagram/</link>
+      <link>http://localhost:1313/2020/03/06/no-filter-2019-on-instagram/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2020/03/06/no-filter-2019-on-instagram/</guid>
+      <guid>http://localhost:1313/2020/03/06/no-filter-2019-on-instagram/</guid>
       <description>&lt;p&gt;A round-up of photos from Instagram. From travels to far flung places. And near flung places.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An unexpected trip to Lourdes</title>
-      <link>https://gerardmcgarry.com/2009/04/24/an-unexpected-trip-to-lourdes/</link>
+      <link>http://localhost:1313/2009/04/24/an-unexpected-trip-to-lourdes/</link>
       <pubDate>Fri, 24 Apr 2009 12:28:45 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/04/24/an-unexpected-trip-to-lourdes/</guid>
+      <guid>http://localhost:1313/2009/04/24/an-unexpected-trip-to-lourdes/</guid>
       <description>&lt;p&gt;Last Wednesday I got dragged to France. I&amp;rsquo;ve never been to France, although I have tried their method of kissing before and even their ticklers once or twice.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Malta, November 2000</title>
-      <link>https://gerardmcgarry.com/2009/04/01/malta-november-2000/</link>
+      <link>http://localhost:1313/2009/04/01/malta-november-2000/</link>
       <pubDate>Wed, 01 Apr 2009 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/04/01/malta-november-2000/</guid>
+      <guid>http://localhost:1313/2009/04/01/malta-november-2000/</guid>
       <description>&lt;p&gt;A photo from back in November 2000, the first big holiday Lisa and I ever took. We stayed near St Julian&amp;rsquo;s in Malta and one day took this brilliant cruise around the bay, which was just so relaxing.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 title: 'Adventures in abstinence: Is it time to stop drinking?'
 author: gerrybot
 date: 2023-02-11
-draft: false
+draft: true
 tags: [Alcohol, Dry January, 2023]
 categories: [Life]
 image: green-beer-bottles.jpg

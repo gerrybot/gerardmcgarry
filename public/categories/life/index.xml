@@ -2,117 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/categories/life/</link>
+    <link>http://localhost:1313/categories/life/</link>
     <description>Recent content in Life on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cutting Turf</title>
-      <link>https://gerardmcgarry.com/2021/07/11/cutting-turf/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/07/11/cutting-turf/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Like many working class families, we used to cut turf for our fires in the winter. A visit to an old peat bog brings back some childhood memories&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
+      <title>An Ode To Toronto</title>
+      <link>http://localhost:1313/2023/12/08/an-ode-to-toronto/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/12/08/an-ode-to-toronto/</guid>
+      <description>&lt;p&gt;&lt;em&gt;For the past couple of years, an idea has been bubbling at the back of my mind: What if you could live and work somewhere else in the world?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Romance and heartbreak at Ceoffin Castle</title>
-      <link>https://gerardmcgarry.com/2021/07/11/romance-and-heartbreak-at-ceoffin-castle/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2021/07/11/romance-and-heartbreak-at-ceoffin-castle/</guid>
+      <link>http://localhost:1313/2021/10/27/romance-and-heartbreak-at-ceoffin-castle/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2021/10/27/romance-and-heartbreak-at-ceoffin-castle/</guid>
       <description>&lt;p&gt;&lt;em&gt;On the Isle of Lismore, far off the beaten track, is the shambling ruin of Castle Ceoffin. It resembles, more than anything, a gnarled, groping hand reaching skyward.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Cutting Turf</title>
+      <link>http://localhost:1313/2021/07/11/cutting-turf/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2021/07/11/cutting-turf/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Like many working class families, we used to cut turf for our fires in the winter. A visit to an old peat bog brings back some childhood memories&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Life Under Lockdown</title>
-      <link>https://gerardmcgarry.com/2020/04/19/life-under-lockdown/</link>
+      <link>http://localhost:1313/2020/04/19/life-under-lockdown/</link>
       <pubDate>Sun, 19 Apr 2020 15:17:01 +0100</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2020/04/19/life-under-lockdown/</guid>
-      <description>Life comes at you fast. At the start of 2020, the world had never heard of Coronavirus. By March, terms like &amp;ldquo;social distancing&amp;rdquo; and &amp;ldquo;flattening the curve&amp;rdquo; were part of everyday conversation. We entered nationwide lockdown, keeping to our houses as much as possible and watched anxiously for news of the virus at home and abroad.
-The impact of this pandemic is almost impossible to comprehend. International travel at a virtual standstill.</description>
+      <guid>http://localhost:1313/2020/04/19/life-under-lockdown/</guid>
+      <description>&lt;p&gt;Life comes at you fast. At the start of 2020, the world had never heard of Coronavirus. By March, terms like &amp;ldquo;social distancing&amp;rdquo; and &amp;ldquo;flattening the curve&amp;rdquo; were part of everyday conversation. We entered nationwide lockdown, keeping to our houses as much as possible and watched anxiously for news of the virus at home and abroad.&lt;/p&gt;&#xA;&lt;p&gt;The impact of this pandemic is almost impossible to comprehend. International travel at a virtual standstill. Populations voluntarily staying at home. Businesses going on hiatus, except those that are truly critical. The self-employed and gig economy are suffering the worst since they have scant protection against a disaster on this scale. Massive economic disruption. Stock markets tanking hard. Governments forced into providing universal aid.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Year of the Spreadsheet</title>
-      <link>https://gerardmcgarry.com/2018/12/18/the-year-of-the-spreadsheet/</link>
+      <link>http://localhost:1313/2018/12/18/the-year-of-the-spreadsheet/</link>
       <pubDate>Tue, 18 Dec 2018 09:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2018/12/18/the-year-of-the-spreadsheet/</guid>
+      <guid>http://localhost:1313/2018/12/18/the-year-of-the-spreadsheet/</guid>
       <description>&lt;p&gt;Or, how I learned to stop freewheeling my personal life and finally get my shit together.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tom and Eileen</title>
-      <link>https://gerardmcgarry.com/2018/05/01/tom-and-eileen/</link>
+      <link>http://localhost:1313/2018/05/01/tom-and-eileen/</link>
       <pubDate>Tue, 01 May 2018 21:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2018/05/01/tom-and-eileen/</guid>
-      <description>&lt;p&gt;Tom and Eileen&amp;rsquo;s house. Glenshesk, 2006.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The lure of an abandoned house is in imagining the story of the people who lived there. Who they were. What their lives were like. Why they left behind their home and where they went to next. But in the case of this hillside house in Glenshesk, I knew the people well.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/2018/05/01/tom-and-eileen/</guid>
+      <description>&lt;p&gt;Tom and Eileen&amp;rsquo;s house. Glenshesk, 2006.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The lure of an abandoned house is in imagining the story of the people who lived there. Who they were. What their lives were like. Why they left behind their home and where they went to next. But in the case of this hillside house in Glenshesk, I knew the people well.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>So long, Rugby Road</title>
-      <link>https://gerardmcgarry.com/2018/03/28/so-long-rugby-road/</link>
+      <link>http://localhost:1313/2018/03/28/so-long-rugby-road/</link>
       <pubDate>Wed, 28 Mar 2018 23:48:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2018/03/28/so-long-rugby-road/</guid>
+      <guid>http://localhost:1313/2018/03/28/so-long-rugby-road/</guid>
       <description>&lt;p&gt;Hey there, reader. Let me tell you a story about a leafy, bumpy road in South Belfast that I&amp;rsquo;ve come to call home.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>I decided...</title>
-      <link>https://gerardmcgarry.com/2017/11/14/i-decided.../</link>
-      <pubDate>Tue, 14 Nov 2017 10:48:25 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2017/11/14/i-decided.../</guid>
-      <description>I decided to stop drinking for two months. So I did.
-I decided to sever a series of toxic relationships. So I did.
-I decided to take some risks in my career. And I did.
-I decided to start taking yoga classes. And I did.
-I decided to start writing again. So I&amp;rsquo;m writing this.
-At the beginning of those yoga classes, the instructor utters some words which are magical to me.</description>
-    </item>
-    
     <item>
       <title>Anniversaries</title>
-      <link>https://gerardmcgarry.com/2010/06/13/anniversaries/</link>
+      <link>http://localhost:1313/2010/06/13/anniversaries/</link>
       <pubDate>Sun, 13 Jun 2010 20:19:56 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2010/06/13/anniversaries/</guid>
-      <description>This is going to be a strange post. But then it&amp;rsquo;s a strange time, and my head is full of conflicting ideas and emotions and memories. So expect a jumble of words that may not entirely make sense and may not be in exactly the right order&amp;hellip;.
-Last Monday, I found myself in Elstree, the home of Big Brother. On assignment as our roving reporter to meet with 89 potential housemates for the new series.</description>
+      <guid>http://localhost:1313/2010/06/13/anniversaries/</guid>
+      <description>&lt;p&gt;This is going to be a strange post. But then it&amp;rsquo;s a strange time, and my head is full of conflicting ideas and emotions and memories. So expect a jumble of words that may not entirely make sense and may not be in exactly the right order&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;Last Monday, I found myself in Elstree, the home of Big Brother. On assignment as our roving reporter to meet with &lt;em&gt;89 potential housemates&lt;/em&gt; for the new series. It was brilliantly twisted of the Endemol staff - giving interviews with the possible housemates, but throwing in 75 red herrings to make it almost impossible for the red tops to do any dirt digging.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Funeral</title>
-      <link>https://gerardmcgarry.com/2009/08/25/the-funeral/</link>
+      <link>http://localhost:1313/2009/08/25/the-funeral/</link>
       <pubDate>Tue, 25 Aug 2009 23:43:14 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/08/25/the-funeral/</guid>
+      <guid>http://localhost:1313/2009/08/25/the-funeral/</guid>
       <description>&lt;p&gt;Rewind to two days before the funeral, his green Nissan Primera racing toward Ballycastle for the final time. But he’s not at the wheel, &lt;em&gt;I’m&lt;/em&gt; the driver, my newly widowed mother beside me, still shell-shocked. Sister in the back seat, silent.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An Atheist&#39;s Approach to Death</title>
-      <link>https://gerardmcgarry.com/2009/05/24/an-atheists-approach-to-death/</link>
+      <link>http://localhost:1313/2009/05/24/an-atheists-approach-to-death/</link>
       <pubDate>Sun, 24 May 2009 00:27:43 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/05/24/an-atheists-approach-to-death/</guid>
-      <description>&lt;p&gt;How does an Atheist deal with death? Two things have made me think about death and Atheism lately: a reading of Richard Dawkins&#39; book, &lt;em&gt;The God Delusion&lt;/em&gt; and the news that my father has terminal cancer.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/2009/05/24/an-atheists-approach-to-death/</guid>
+      <description>&lt;p&gt;How does an Atheist deal with death? Two things have made me think about death and Atheism lately: a reading of Richard Dawkins&amp;rsquo; book, &lt;em&gt;The God Delusion&lt;/em&gt; and the news that my father has terminal cancer.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An unexpected trip to Lourdes</title>
-      <link>https://gerardmcgarry.com/2009/04/24/an-unexpected-trip-to-lourdes/</link>
+      <link>http://localhost:1313/2009/04/24/an-unexpected-trip-to-lourdes/</link>
       <pubDate>Fri, 24 Apr 2009 12:28:45 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/04/24/an-unexpected-trip-to-lourdes/</guid>
+      <guid>http://localhost:1313/2009/04/24/an-unexpected-trip-to-lourdes/</guid>
       <description>&lt;p&gt;Last Wednesday I got dragged to France. I&amp;rsquo;ve never been to France, although I have tried their method of kissing before and even their ticklers once or twice.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

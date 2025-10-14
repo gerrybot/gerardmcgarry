@@ -7,7 +7,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = "UA-54080-12"
 preserveTaxonomyNames = true
-paginate = 15 #frontpage pagination
+# paginate = 15 #frontpage pagination
 
 [params]
   slogan = "Adventures on the Interwebs"

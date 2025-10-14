@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Belfast on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/belfast/</link>
+    <link>http://localhost:1313/tags/belfast/</link>
     <description>Recent content in Belfast on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 28 Mar 2018 23:48:00 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/belfast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Mar 2018 23:48:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/belfast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So long, Rugby Road</title>
-      <link>https://gerardmcgarry.com/2018/03/28/so-long-rugby-road/</link>
+      <link>http://localhost:1313/2018/03/28/so-long-rugby-road/</link>
       <pubDate>Wed, 28 Mar 2018 23:48:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2018/03/28/so-long-rugby-road/</guid>
+      <guid>http://localhost:1313/2018/03/28/so-long-rugby-road/</guid>
       <description>&lt;p&gt;Hey there, reader. Let me tell you a story about a leafy, bumpy road in South Belfast that I&amp;rsquo;ve come to call home.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,406 +2,354 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2021</title>
-      <link>https://gerardmcgarry.com/tags/2021/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/2021/</guid>
+      <title>2023</title>
+      <link>http://localhost:1313/tags/2023/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2023/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Castles</title>
-      <link>https://gerardmcgarry.com/tags/castles/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/castles/</guid>
+      <title>Canada</title>
+      <link>http://localhost:1313/tags/canada/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/canada/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>County Antrim</title>
-      <link>https://gerardmcgarry.com/tags/county-antrim/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/county-antrim/</guid>
+      <title>Toronto</title>
+      <link>http://localhost:1313/tags/toronto/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/toronto/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://gerardmcgarry.com/tags/culture/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memories</title>
-      <link>https://gerardmcgarry.com/tags/memories/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/memories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>North Coast</title>
-      <link>https://gerardmcgarry.com/tags/north-coast/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/north-coast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Northern Ireland</title>
-      <link>https://gerardmcgarry.com/tags/northern-ireland/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/northern-ireland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scotland</title>
-      <link>https://gerardmcgarry.com/tags/scotland/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/scotland/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Travel</title>
-      <link>https://gerardmcgarry.com/tags/travel/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/travel/</guid>
+      <link>http://localhost:1313/tags/travel/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/travel/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Alcohol</title>
+      <link>http://localhost:1313/tags/alcohol/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/alcohol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dry January</title>
+      <link>http://localhost:1313/tags/dry-january/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dry-january/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2021</title>
+      <link>http://localhost:1313/tags/2021/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Castles</title>
+      <link>http://localhost:1313/tags/castles/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/castles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memories</title>
+      <link>http://localhost:1313/tags/memories/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/memories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scotland</title>
+      <link>http://localhost:1313/tags/scotland/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scotland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>County Antrim</title>
+      <link>http://localhost:1313/tags/county-antrim/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/county-antrim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/tags/culture/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>North Coast</title>
+      <link>http://localhost:1313/tags/north-coast/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/north-coast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Northern Ireland</title>
+      <link>http://localhost:1313/tags/northern-ireland/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/northern-ireland/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ballycastle</title>
-      <link>https://gerardmcgarry.com/tags/ballycastle/</link>
+      <link>http://localhost:1313/tags/ballycastle/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/ballycastle/</guid>
+      <guid>http://localhost:1313/tags/ballycastle/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Coronavirus</title>
-      <link>https://gerardmcgarry.com/tags/coronavirus/</link>
+      <link>http://localhost:1313/tags/coronavirus/</link>
       <pubDate>Sun, 19 Apr 2020 15:17:01 +0100</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/coronavirus/</guid>
+      <guid>http://localhost:1313/tags/coronavirus/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pandemic</title>
-      <link>https://gerardmcgarry.com/tags/pandemic/</link>
+      <link>http://localhost:1313/tags/pandemic/</link>
       <pubDate>Sun, 19 Apr 2020 15:17:01 +0100</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/pandemic/</guid>
+      <guid>http://localhost:1313/tags/pandemic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Quarantine</title>
-      <link>https://gerardmcgarry.com/tags/quarantine/</link>
+      <link>http://localhost:1313/tags/quarantine/</link>
       <pubDate>Sun, 19 Apr 2020 15:17:01 +0100</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/quarantine/</guid>
+      <guid>http://localhost:1313/tags/quarantine/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Edinburgh</title>
-      <link>https://gerardmcgarry.com/tags/edinburgh/</link>
+      <link>http://localhost:1313/tags/edinburgh/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/edinburgh/</guid>
+      <guid>http://localhost:1313/tags/edinburgh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Instagram</title>
-      <link>https://gerardmcgarry.com/tags/instagram/</link>
+      <link>http://localhost:1313/tags/instagram/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/instagram/</guid>
+      <guid>http://localhost:1313/tags/instagram/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>London</title>
-      <link>https://gerardmcgarry.com/tags/london/</link>
+      <link>http://localhost:1313/tags/london/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/london/</guid>
+      <guid>http://localhost:1313/tags/london/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Manchester</title>
-      <link>https://gerardmcgarry.com/tags/manchester/</link>
+      <link>http://localhost:1313/tags/manchester/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/manchester/</guid>
+      <guid>http://localhost:1313/tags/manchester/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sweden</title>
-      <link>https://gerardmcgarry.com/tags/sweden/</link>
+      <link>http://localhost:1313/tags/sweden/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/sweden/</guid>
+      <guid>http://localhost:1313/tags/sweden/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Yoga</title>
-      <link>https://gerardmcgarry.com/tags/yoga/</link>
+      <link>http://localhost:1313/tags/yoga/</link>
       <pubDate>Fri, 06 Mar 2020 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/yoga/</guid>
+      <guid>http://localhost:1313/tags/yoga/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Productivity</title>
-      <link>https://gerardmcgarry.com/tags/productivity/</link>
+      <link>http://localhost:1313/tags/productivity/</link>
       <pubDate>Tue, 18 Dec 2018 09:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/productivity/</guid>
+      <guid>http://localhost:1313/tags/productivity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Self Improvement</title>
-      <link>https://gerardmcgarry.com/tags/self-improvement/</link>
+      <link>http://localhost:1313/tags/self-improvement/</link>
       <pubDate>Tue, 18 Dec 2018 09:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/self-improvement/</guid>
+      <guid>http://localhost:1313/tags/self-improvement/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Abandoned Places</title>
-      <link>https://gerardmcgarry.com/tags/abandoned-places/</link>
+      <link>http://localhost:1313/tags/abandoned-places/</link>
       <pubDate>Tue, 01 May 2018 21:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/abandoned-places/</guid>
+      <guid>http://localhost:1313/tags/abandoned-places/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Countryside</title>
-      <link>https://gerardmcgarry.com/tags/countryside/</link>
+      <link>http://localhost:1313/tags/countryside/</link>
       <pubDate>Tue, 01 May 2018 21:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/countryside/</guid>
+      <guid>http://localhost:1313/tags/countryside/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Glenshesk</title>
-      <link>https://gerardmcgarry.com/tags/glenshesk/</link>
+      <link>http://localhost:1313/tags/glenshesk/</link>
       <pubDate>Tue, 01 May 2018 21:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/glenshesk/</guid>
+      <guid>http://localhost:1313/tags/glenshesk/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Memory</title>
-      <link>https://gerardmcgarry.com/tags/memory/</link>
+      <link>http://localhost:1313/tags/memory/</link>
       <pubDate>Tue, 01 May 2018 21:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/memory/</guid>
+      <guid>http://localhost:1313/tags/memory/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stories</title>
-      <link>https://gerardmcgarry.com/tags/stories/</link>
+      <link>http://localhost:1313/tags/stories/</link>
       <pubDate>Tue, 01 May 2018 21:54:41 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/stories/</guid>
+      <guid>http://localhost:1313/tags/stories/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Belfast</title>
-      <link>https://gerardmcgarry.com/tags/belfast/</link>
+      <link>http://localhost:1313/tags/belfast/</link>
       <pubDate>Wed, 28 Mar 2018 23:48:00 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/belfast/</guid>
+      <guid>http://localhost:1313/tags/belfast/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Meditation</title>
-      <link>https://gerardmcgarry.com/tags/meditation/</link>
+      <link>http://localhost:1313/tags/meditation/</link>
       <pubDate>Tue, 14 Nov 2017 10:48:25 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/meditation/</guid>
+      <guid>http://localhost:1313/tags/meditation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Thoughts</title>
-      <link>https://gerardmcgarry.com/tags/thoughts/</link>
+      <link>http://localhost:1313/tags/thoughts/</link>
       <pubDate>Tue, 14 Nov 2017 10:48:25 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/thoughts/</guid>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wellness</title>
-      <link>https://gerardmcgarry.com/tags/wellness/</link>
+      <link>http://localhost:1313/tags/wellness/</link>
       <pubDate>Tue, 14 Nov 2017 10:48:25 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/wellness/</guid>
+      <guid>http://localhost:1313/tags/wellness/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Death</title>
-      <link>https://gerardmcgarry.com/tags/death/</link>
+      <link>http://localhost:1313/tags/death/</link>
       <pubDate>Sun, 13 Jun 2010 20:19:56 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/death/</guid>
+      <guid>http://localhost:1313/tags/death/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Family</title>
-      <link>https://gerardmcgarry.com/tags/family/</link>
+      <link>http://localhost:1313/tags/family/</link>
       <pubDate>Tue, 25 Aug 2009 23:43:14 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/family/</guid>
+      <guid>http://localhost:1313/tags/family/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Funerals</title>
-      <link>https://gerardmcgarry.com/tags/funerals/</link>
+      <link>http://localhost:1313/tags/funerals/</link>
       <pubDate>Tue, 25 Aug 2009 23:43:14 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/funerals/</guid>
+      <guid>http://localhost:1313/tags/funerals/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Image</title>
-      <link>https://gerardmcgarry.com/tags/image/</link>
+      <link>http://localhost:1313/tags/image/</link>
       <pubDate>Sat, 08 Aug 2009 17:00:47 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/image/</guid>
+      <guid>http://localhost:1313/tags/image/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ireland</title>
-      <link>https://gerardmcgarry.com/tags/ireland/</link>
+      <link>http://localhost:1313/tags/ireland/</link>
       <pubDate>Sat, 08 Aug 2009 17:00:47 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/ireland/</guid>
+      <guid>http://localhost:1313/tags/ireland/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Portumna</title>
-      <link>https://gerardmcgarry.com/tags/portumna/</link>
+      <link>http://localhost:1313/tags/portumna/</link>
       <pubDate>Sat, 08 Aug 2009 17:00:47 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/portumna/</guid>
+      <guid>http://localhost:1313/tags/portumna/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Atheism</title>
-      <link>https://gerardmcgarry.com/tags/atheism/</link>
+      <link>http://localhost:1313/tags/atheism/</link>
       <pubDate>Sun, 24 May 2009 00:27:43 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/atheism/</guid>
+      <guid>http://localhost:1313/tags/atheism/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Religion</title>
-      <link>https://gerardmcgarry.com/tags/religion/</link>
+      <link>http://localhost:1313/tags/religion/</link>
       <pubDate>Sun, 24 May 2009 00:27:43 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/religion/</guid>
+      <guid>http://localhost:1313/tags/religion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>France</title>
-      <link>https://gerardmcgarry.com/tags/france/</link>
+      <link>http://localhost:1313/tags/france/</link>
       <pubDate>Fri, 24 Apr 2009 12:28:45 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/france/</guid>
+      <guid>http://localhost:1313/tags/france/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lourdes</title>
-      <link>https://gerardmcgarry.com/tags/lourdes/</link>
+      <link>http://localhost:1313/tags/lourdes/</link>
       <pubDate>Fri, 24 Apr 2009 12:28:45 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/lourdes/</guid>
+      <guid>http://localhost:1313/tags/lourdes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Malta</title>
-      <link>https://gerardmcgarry.com/tags/malta/</link>
+      <link>http://localhost:1313/tags/malta/</link>
       <pubDate>Wed, 01 Apr 2009 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/malta/</guid>
+      <guid>http://localhost:1313/tags/malta/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Photoshop</title>
-      <link>https://gerardmcgarry.com/tags/photoshop/</link>
+      <link>http://localhost:1313/tags/photoshop/</link>
       <pubDate>Mon, 14 Jul 2008 00:13:21 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/photoshop/</guid>
+      <guid>http://localhost:1313/tags/photoshop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Portrait</title>
-      <link>https://gerardmcgarry.com/tags/portrait/</link>
+      <link>http://localhost:1313/tags/portrait/</link>
       <pubDate>Mon, 14 Jul 2008 00:13:21 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/portrait/</guid>
+      <guid>http://localhost:1313/tags/portrait/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Screenshots</title>
-      <link>https://gerardmcgarry.com/tags/screenshots/</link>
+      <link>http://localhost:1313/tags/screenshots/</link>
       <pubDate>Mon, 14 Jul 2008 00:13:21 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/tags/screenshots/</guid>
+      <guid>http://localhost:1313/tags/screenshots/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

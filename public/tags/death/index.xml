@@ -2,38 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Death on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/death/</link>
+    <link>http://localhost:1313/tags/death/</link>
     <description>Recent content in Death on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 13 Jun 2010 20:19:56 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/death/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2010 20:19:56 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/death/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anniversaries</title>
-      <link>https://gerardmcgarry.com/2010/06/13/anniversaries/</link>
+      <link>http://localhost:1313/2010/06/13/anniversaries/</link>
       <pubDate>Sun, 13 Jun 2010 20:19:56 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2010/06/13/anniversaries/</guid>
-      <description>This is going to be a strange post. But then it&amp;rsquo;s a strange time, and my head is full of conflicting ideas and emotions and memories. So expect a jumble of words that may not entirely make sense and may not be in exactly the right order&amp;hellip;.
-Last Monday, I found myself in Elstree, the home of Big Brother. On assignment as our roving reporter to meet with 89 potential housemates for the new series.</description>
+      <guid>http://localhost:1313/2010/06/13/anniversaries/</guid>
+      <description>&lt;p&gt;This is going to be a strange post. But then it&amp;rsquo;s a strange time, and my head is full of conflicting ideas and emotions and memories. So expect a jumble of words that may not entirely make sense and may not be in exactly the right order&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;Last Monday, I found myself in Elstree, the home of Big Brother. On assignment as our roving reporter to meet with &lt;em&gt;89 potential housemates&lt;/em&gt; for the new series. It was brilliantly twisted of the Endemol staff - giving interviews with the possible housemates, but throwing in 75 red herrings to make it almost impossible for the red tops to do any dirt digging.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Funeral</title>
-      <link>https://gerardmcgarry.com/2009/08/25/the-funeral/</link>
+      <link>http://localhost:1313/2009/08/25/the-funeral/</link>
       <pubDate>Tue, 25 Aug 2009 23:43:14 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/08/25/the-funeral/</guid>
+      <guid>http://localhost:1313/2009/08/25/the-funeral/</guid>
       <description>&lt;p&gt;Rewind to two days before the funeral, his green Nissan Primera racing toward Ballycastle for the final time. But he’s not at the wheel, &lt;em&gt;I’m&lt;/em&gt; the driver, my newly widowed mother beside me, still shell-shocked. Sister in the back seat, silent.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An Atheist&#39;s Approach to Death</title>
-      <link>https://gerardmcgarry.com/2009/05/24/an-atheists-approach-to-death/</link>
+      <link>http://localhost:1313/2009/05/24/an-atheists-approach-to-death/</link>
       <pubDate>Sun, 24 May 2009 00:27:43 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/05/24/an-atheists-approach-to-death/</guid>
-      <description>&lt;p&gt;How does an Atheist deal with death? Two things have made me think about death and Atheism lately: a reading of Richard Dawkins&#39; book, &lt;em&gt;The God Delusion&lt;/em&gt; and the news that my father has terminal cancer.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/2009/05/24/an-atheists-approach-to-death/</guid>
+      <description>&lt;p&gt;How does an Atheist deal with death? Two things have made me think about death and Atheism lately: a reading of Richard Dawkins&amp;rsquo; book, &lt;em&gt;The God Delusion&lt;/em&gt; and the news that my father has terminal cancer.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malta on Gerard McGarry</title>
-    <link>https://gerardmcgarry.com/tags/malta/</link>
+    <link>http://localhost:1313/tags/malta/</link>
     <description>Recent content in Malta on Gerard McGarry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Apr 2009 13:14:10 +0000</lastBuildDate><atom:link href="https://gerardmcgarry.com/tags/malta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2009 13:14:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/malta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Malta, November 2000</title>
-      <link>https://gerardmcgarry.com/2009/04/01/malta-november-2000/</link>
+      <link>http://localhost:1313/2009/04/01/malta-november-2000/</link>
       <pubDate>Wed, 01 Apr 2009 13:14:10 +0000</pubDate>
-      
-      <guid>https://gerardmcgarry.com/2009/04/01/malta-november-2000/</guid>
+      <guid>http://localhost:1313/2009/04/01/malta-november-2000/</guid>
       <description>&lt;p&gt;A photo from back in November 2000, the first big holiday Lisa and I ever took. We stayed near St Julian&amp;rsquo;s in Malta and one day took this brilliant cruise around the bay, which was just so relaxing.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
