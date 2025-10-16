@@ -37,20 +37,6 @@
       <description></description>
     </item>
     <item>
-      <title>Alcohol</title>
-      <link>http://localhost:1313/tags/alcohol/</link>
-      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/alcohol/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dry January</title>
-      <link>http://localhost:1313/tags/dry-january/</link>
-      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dry-january/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>2021</title>
       <link>http://localhost:1313/tags/2021/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
@@ -230,27 +216,6 @@
       <link>http://localhost:1313/tags/belfast/</link>
       <pubDate>Wed, 28 Mar 2018 23:48:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/belfast/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meditation</title>
-      <link>http://localhost:1313/tags/meditation/</link>
-      <pubDate>Tue, 14 Nov 2017 10:48:25 +0000</pubDate>
-      <guid>http://localhost:1313/tags/meditation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thoughts</title>
-      <link>http://localhost:1313/tags/thoughts/</link>
-      <pubDate>Tue, 14 Nov 2017 10:48:25 +0000</pubDate>
-      <guid>http://localhost:1313/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wellness</title>
-      <link>http://localhost:1313/tags/wellness/</link>
-      <pubDate>Tue, 14 Nov 2017 10:48:25 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wellness/</guid>
       <description></description>
     </item>
     <item>

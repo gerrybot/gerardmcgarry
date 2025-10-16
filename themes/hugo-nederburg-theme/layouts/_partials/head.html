@@ -28,8 +28,3 @@
 <link rel="shortcut icon" href="{{ "img/favicon.ico" | absURL }}" type="image/x-icon">
 <link rel="icon" href="{{ "img/favicon.ico" | absURL }}" type="image/x-icon">
 
-{{ $RSSTitle := .Site.Title }}
-{{ with .OutputFormats.Get "RSS" }}
-	<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $RSSTitle }}" />
-	<link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $RSSTitle }}" />
-{{ end }}
